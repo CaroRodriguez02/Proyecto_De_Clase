@@ -1,7 +1,9 @@
-Hola, mi nombre es Liyan Carolina Rodríguez
+Hola, mi nombre es Liyan Carolina Rodríguez Nieto
 
 Estoy en clase de Electiva aprendiendo GIT. Estoy editando este archivo desde GIT BASH 
 
 Son las 6:40P.M.
 
 Soy muy inteligente :D
+
+Mis metas para este semestre es aprender mucho de mis compañeros, agradezco esta oportunidad para entender en un nuevo acercamiento.
