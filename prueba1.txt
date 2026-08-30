@@ -1,0 +1,7 @@
+Hola, mi nombre es Liyan Carolina Rodríguez
+
+Estoy en clase de Electiva aprendiendo GIT. Estoy editando este archivo desde GIT BASH 
+
+Son las 6:40P.M.
+
+Soy muy inteligente :D
